@@ -1,2 +1,3 @@
 # Test-draw-io
-test - ignore
+
+[Diagram](Diagrams/Diagrams.md)
